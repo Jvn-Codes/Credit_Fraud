@@ -17,3 +17,6 @@ This project detects fraudulent transactions using machine learning.
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
+
+ ## 🌐 Live Demo
+https://jvn-codes-credit-fraud.streamlit.app/
